@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.HDvfrsmi.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"hooks/camera/use-jump-to.md","filePath":"hooks/camera/use-jump-to.md"}'),a={name:"hooks/camera/use-jump-to.md"};function s(r,c,m,n,p,u){return t(),o("div")}const i=e(a,[["render",s]]);export{d as __pageData,i as default};
